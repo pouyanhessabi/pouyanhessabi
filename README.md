@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Pouyan Hessabi</h1>
 <h3 align="center">I'm a Graduated Student of Computer Engineering at Amirkabir University of Technology trying to learn as much as possible!</h3>
 
-- 📫 How to reach me **pouyan.hessabi@gmail.com**
+- 👨🏻‍💻 [My personal website](https://pouyanhessabi.github.io/)<br>
+- 📫 How to reach me **pouyan.hessabi@gmail.com** <br> <br>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pouyan.hessabi@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/pouyan_h99)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -25,6 +29,12 @@
   <a href="https://www.atlassian.com/software/confluence/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a> 
   <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain-wordmark.svg" alt="jira" width="40" height="40"/>
   </a> 
+
+<br>
+<br>
+<a href="https://github.com/pouyanhessabi/pouyanhessabi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pouyanhessabi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahdi's GitHub Stats" />
+</a>
 
   
 </p>
