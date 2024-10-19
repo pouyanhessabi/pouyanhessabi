@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Pouyan Hessabi</h1>
-<h3 align="center">I'm a Graduated Student of Computer Engineering at Amirkabir University of Technology trying to learn as much as possible!</h3>
+<h3 align="center">I'm a Graduated Student of Computer Engineering at Amirkabir University of Technology, with hands-on experiences on Software Engineering and Machine Learning, trying to learn as much as possible!</h3>
 
 - 👨🏻‍💻 [My personal website](https://pouyanhessabi.github.io/) and [My short CV](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/CV_P.Hessabi.pdf)<br>
 - 📫 How to reach me **pouyan.hessabi@gmail.com** <br> <br>
