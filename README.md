@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pouyan Hessabi</h1>
 <h3 align="center">I'm a Graduated Student of Computer Engineering at Amirkabir University of Technology, with hands-on experiences on Software Engineering and Machine Learning, trying to learn as much as possible!</h3>
 
-- 👨🏻‍💻 [My personal website](https://pouyanhessabi.github.io/) and [My short CV](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/CV_P.Hessabi.pdf)<br>
+<!-- 👨🏻‍💻 [My personal website](https://pouyanhessabi.github.io/) and [My short CV](https://github.com/pouyanhessabi/pouyanhessabi.github.io/blob/main/CV_P.Hessabi.pdf)<br> -->
 - 📫 How to reach me **pouyan.hessabi@gmail.com** <br> <br>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pouyan.hessabi@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
