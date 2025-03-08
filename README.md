@@ -11,6 +11,9 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/pouyan_h99)
 
+## Visitor Count
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=pouyanhessabi.pouyanhessabi)
+
 ## Skills
 <p align="center">
 
