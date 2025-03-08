@@ -11,9 +11,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pouyan-hessabi-b0900b216/)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/pouyan_h99)
 
-## Visitor Count
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=pouyanhessabi.pouyanhessabi)
-
 ## Skills
 <p align="center">
 
@@ -83,20 +80,37 @@
 **[Healthcare Microservice](https://github.com/pouyanhessabi/B.Sc-Project-Healthcare-Microservice)**: Designed and implemented a healthcare system using a microservices architecture,
 incorporating machine learning for disease prediction based on symptoms, and mapping diseases to specific expertise.
 
-  User Panel: <br>
-  ![](https://github.com/pouyanhessabi/B.Sc-Final-Project-Healthcare-Microservice/blob/main/Report/Gif/User%20auth.gif)
-  
-  Disease Prediction: <br>
-  ![](https://github.com/pouyanhessabi/B.Sc-Final-Project-Healthcare-Microservice/blob/main/Report/Gif/Disease%20and%20Expertise%20gif.gif)
+  <p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/pouyanhessabi/B.Sc-Final-Project-Healthcare-Microservice/blob/main/Report/Gif/User%20auth.gif" alt="User Panel" width="300" />
+        <br>
+        <strong>User Panel</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/pouyanhessabi/B.Sc-Final-Project-Healthcare-Microservice/blob/main/Report/Gif/Disease%20and%20Expertise%20gif.gif" alt="Disease Prediction" width="300" />
+        <br>
+        <strong>Disease Prediction</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/pouyanhessabi/B.Sc-Final-Project-Healthcare-Microservice/blob/main/Report/Gif/Search.gif" alt="Search Physician" width="300" />
+        <br>
+        <strong>Search Physician</strong>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 ## Certifications
 - **[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)**, by Andrew Ng; DeepLearning.AI and Stanford University.
-  - Supervised Machine Learning: Regression and Classification.
-  - Advanced Learning Algorithms: Neural Networks and Decision Trees.
-  - Unsupervised Learning, Recommenders, Reinforcement Learning.
-  
-  [Certificate](https://coursera.org/share/7d9934898275ae498256cba7147d3396)
+  + Supervised Machine Learning: Regression and Classification. {[Certificate](https://coursera.org/share/7d9934898275ae498256cba7147d3396)}
+  + Advanced Learning Algorithms: Neural Networks and Decision Trees.
+  + Unsupervised Learning, Recommenders, Reinforcement Learning.
+<br>
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FHSNYZWVB1PW/CERTIFICATE_LANDING_PAGE~FHSNYZWVB1PW.jpeg" alt="Certificate" width="400" />
+
 
 
 ## GitHub Stats
@@ -109,8 +123,11 @@ incorporating machine learning for disease prediction based on symptoms, and map
 </a>
 -->
 <br>
+<br>
 
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=pouyanhessabi&label=Profile%20views&color=00FF00&style=flat" alt="pouyanhessabi" /> 
+</p>
 
 <!---
 
