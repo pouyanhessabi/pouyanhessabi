@@ -115,12 +115,12 @@ incorporating machine learning for disease prediction based on symptoms, and map
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FHSNYZWVB1PW/CERTIFICATE_LANDING_PAGE~FHSNYZWVB1PW.jpeg" alt="Certificate" width="400" />
 
 
-
+<!---
 ## GitHub Stats
 <a href="https://github.com/pouyanhessabi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pouyanhessabi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pouyan's GitHub Stats" />
 </a>
-<!---
+
 <a href="https://github.com/pouyanhessabi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyanhessabi&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pouyan's Most Used Languages" />
 </a>
