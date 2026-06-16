@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pouyan Hessabi</h1>
 
 ## About Me
-- 🎓  Computer Engineer with a passion for Software Engineering and Machine Learning.
+- 🎓  M.Sc. Data Science at TU Dortmund. B.Sc. Amirkabir University of Technology (Tehran Polytechnic)
 - 💡   Interested in solving real-world problems using technology.
 - 🚀  Always eager to collaborate on exciting projects!
 
